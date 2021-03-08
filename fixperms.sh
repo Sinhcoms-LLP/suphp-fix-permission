@@ -3,13 +3,7 @@
 # https://blog.sinhcoms.com/fix-permissions-on-files-and-folders-in-a-cpanel-server-for-php
 # https://www.sinhcoms.com
 
-echo"   ____  _       _                               _     _     ____"
-echo"  / ___|(_)_ __ | |__   ___ ___  _ __ ___  ___  | |   | |   |  _ \"
-echo"  \___ \| | '_ \| '_ \ / __/ _ \| '_ ` _ \/ __| | |   | |   | |_) |"
-echo"   ___) | | | | | | | | (_| (_) | | | | | \__ \ | |___| |___|  __/"
-echo"  |____/|_|_| |_|_| |_|\___\___/|_| |_| |_|___/ |_____|_____|_|"
-
-
+echo"Sinhcoms LLP"
 
 # Set verbose to null
 verbose=""
